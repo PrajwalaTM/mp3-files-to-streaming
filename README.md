@@ -1,2 +1,3 @@
-# mp3-files-to-spotify
-To import local mp3 files to Spotify playlist
+# mp3-files-to-streaming
+
+To export local .mp3 to streaming services
